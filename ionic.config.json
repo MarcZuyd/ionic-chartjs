@@ -1,5 +1,7 @@
 {
   "name": "ionic-chartjs",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
